@@ -35,7 +35,7 @@ Close Flight Application
 
 
 *** Test Cases ***
-Login with Invalid Data
+Login Success with Valid Data
     Open Flight Application
     Click Sign In Button On Home Page
     Input Username
